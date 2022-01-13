@@ -29,10 +29,14 @@
 ---
 <div align="center">
 <img width="50%" src="https://i.ibb.co/qFg89P1/firma-Copy.png" />
- <div>
+ </div>
 
 <div align="center">
 <h4 align="center">Gracias por pasar por aquí 😁</h4>
-<a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter2.stat.ovh/private/freecounterstat.php?c=wjl1pwdfgquhgw6dkuj6prj5qqhnk1sx" border="0" title="free website counter" alt="free website counter"></a>
-</div>
-
+ </div>
+ 
+<div align="center">
+    
+![](https://komarev.com/ghpvc/?username=soychrisjuncal)
+    
+ 
