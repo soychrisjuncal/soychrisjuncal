@@ -8,7 +8,7 @@
     🔸 Desarrollador Multimedial & Front End.<br/>
     🔸 Creador de contenidos de las empresas <a target=_blank href="https://www.instagram.com/kiwi.boards/?hl=es-la">[Kiwi Boards]</a> y <a target=_blank href="https://www.instagram.com/gravitygafas/?hl=es-la">[Gravity Gafas]</a><br/>
     🔸 Sólidos conocimientos de Desarrollo de Negocios & Marketing Digital<br/>
-    🔸 Experiencia acompaños proyectos colectivos de trabajo.<br/>
+    🔸 Experiencia acompañando proyectos colectivos de trabajo.<br/>
 </div>
 
 ***
